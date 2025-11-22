@@ -1,2 +1,2 @@
-/admin    /   200
-/admin/login    /   200
+/admin    /App.tsx   200
+/admin/login    /App.tsx   200
